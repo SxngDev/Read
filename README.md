@@ -1,18 +1,21 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=40&pause=1000&color=F79F22&center=true&width=700&height=55&lines=%C2%A1Hola%2C+Soy+Shuaffx!;Desarrollador+Full+Stack;Bienvenido+a+mi+perfil." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=40&pause=1000&color=F79F22&center=true&width=700&height=55&lines=%C2%A1Hola%2C+Soy+Shuaffx!;Desarrollador+Full+Stack;Bienvenido+a+mi+perfil+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </h1>
 
-<div align="center">
-  <!-- GIF Hacker -->
-  <img height="270" width="650" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Hacker GIF" />
+<div align ="center">
+  <!-- GIF de código -->
+  <img height="270" width="650" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="GIF de código" />
 </div>
 
 <br>
-<!-- Stats -->
+<!-- Estadísticas -->
 <div align="center">
+  <!-- Lenguajes más usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuaffx&layout=compact&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=shuaffx&theme=dark" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuaffx&theme=codeSTACKr"/>
+  <!-- Racha de contribuciones -->
+  <img src="https://streak-stats.demolab.com?user=shuaffx&theme=dark" height="150"  alt="GitHub Streak" />
+  <!-- Resumen del perfil -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuaffx&theme=codeSTACKr" alt="Shuaffx GitHub Achievements" />
 </div>
 
 <p align="center">
